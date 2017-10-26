@@ -1,6 +1,6 @@
 ---
 title: "Project4"
-author: "Dillemuth"
+author: "Dillemuth, Daniel"
 date: "October 26, 2017"
 output: html_document
 ---
